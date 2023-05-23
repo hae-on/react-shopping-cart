@@ -1,15 +1,5 @@
 [
   {
-    "id": 1,
-    "quantity": 1,
-    "product": {
-      "id": 1,
-      "name": "PET보틀-정사각(420ml)",
-      "price": 43400,
-      "imageUrl": "images/정사각-420.jpeg"
-    }
-  },
-  {
     "id": 2,
     "quantity": 2,
     "product": {
@@ -27,6 +17,16 @@
       "name": "PET보틀-정사각(370ml)",
       "price": 41000,
       "imageUrl": "images/정사각-370.jpeg"
+    }
+  },
+  {
+    "id": 4,
+    "quantity": 1,
+    "product": {
+      "id": 4,
+      "name": "PET보틀-납작(450ml)",
+      "price": 39900,
+      "imageUrl": "images/납작-450.jpeg"
     }
   }
 ]
