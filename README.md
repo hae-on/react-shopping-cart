@@ -5,11 +5,11 @@
 
 ### Step 1
 
-<img width="416" alt="image" src="https://github.com/Leejin-Yang/react-modal-hp/assets/78616893/4c8e36f6-ed86-4ca2-831c-b4006ab34dc8">
+<img  alt="image" src="https://github.com/Leejin-Yang/react-modal-hp/assets/78616893/4c8e36f6-ed86-4ca2-831c-b4006ab34dc8">
 
 ### Step 2
 
-<img width="416" alt="image" src="https://github.com/hae-on/woowacourse/assets/80464961/fb9639fa-e196-4e38-850f-0f31a6bacb89">
+<img  alt="image" src="https://github.com/hae-on/woowacourse/assets/80464961/fb9639fa-e196-4e38-850f-0f31a6bacb89">
 
 <br>
 
@@ -101,17 +101,17 @@
 
 가독성과 재사용성을 유의하며 기능을 구현한다.
 
-- **Readability**
+**Readability**
 
 - API 요청을 처리하는 공통 함수나 커스텀 훅을 작성하여 재사용 가능하게 만든다.
 - 페이지간 공통 스타일이 있는 경우 재사용한다.
 
-- **Reusability**
+**Reusability**
 
 - 서버와의 통신을 담당하는 코드와 UI를 렌더링 하는 코드를 분리하여 관심사를 분리한다.
 - 에러 처리 로직을 명확하게 작성하여 코드의 가독성을 높인다.
 
-- **Performance**
+**Performance**
 
 - 불필요한 상태 관리를 최소화하고, 상태 업데이트를 최적화한다.
 - 컴포넌트의 리렌더링을 최소화하기 위해 memoization을 적용한다.
